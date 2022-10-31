@@ -1,0 +1,112 @@
+
+    *{
+        background-color: rgb(53, 53, 53);
+        margin: 0%;
+        padding: 0%;
+    }
+    
+    body{
+        
+        display: flex;
+        margin-top: 200px;
+        justify-content: center;
+    }
+    main{
+        font-size: x-large;
+        color: black;
+        background-color: black;
+        
+    }
+    
+    #sec00{
+        display: flex;
+        
+        background-color: black;
+        
+    }
+    
+    #dv00{
+        width: 100px;
+        height: 100px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20%;
+    }
+    #dv01{
+        margin-left: 8px;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20%;
+    }
+    
+    #dv02{
+        
+        margin-left: 8px;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20%;
+    }
+    
+    #sec01{
+        display: flex;
+        margin-top: 8px;
+        
+        background-color: black;
+    }
+    
+    
+    #dv10{
+        width: 100px;
+        height: 100px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20%;
+    }
+    
+    #dv11{
+        
+        margin-left: 8px;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20%;
+    }
+    #dv12{
+        
+        margin-left: 8px;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20%;
+    }
+    
+    #sec02{
+        display: flex;
+        margin-top: 8px;
+        background-color: black;
+        border-radius: 20%;
+    }
+    
+    #dv20{
+        width: 100px;
+        height: 100px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20%;
+    }
+    
+    #dv21{
+        
+        margin-left: 8px;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20%;
+    }
+    #dv22{
+        
+        margin-left: 8px;
+        width: 100px;
+        height: 100px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 20%;
+    }
